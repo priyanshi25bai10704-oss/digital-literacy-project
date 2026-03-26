@@ -24,6 +24,38 @@ CSE0001 digital literacy project vit bhopal
 •⁠  ⁠⁠ task-5-cybercrime/ ⁠ → Phishing case study + Prevention checklist
 •⁠  ⁠⁠ report/ ⁠ → Full Project_Report.docx/pdf
 
+## Project Overview
+This project is created as part of the Digital Literacy course at VIT Bhopal. It demonstrates my understanding of digital tools, online presence, communication, and cyber safety.
+
+## Task 1 – Infographic
+Created using Canva explaining digital literacy, safe internet practices, and email etiquette.
+
+## Task 2 – Digital Portfolio
+Created profiles on:
+- GitHub
+- LinkedIn
+- Kaggle
+
+## Task 3 – Platforms
+- Completed beginner problem on HackerRank
+- Created a Google Form quiz on digital literacy
+
+## Task 4 – Email Etiquette
+- Wrote professional emails
+- Created social media checklist
+
+## Task 5 – Cybercrime Awareness
+- Created phishing case study
+- Designed prevention checklist
+
+## Folder Structure
+- task-1-presentation/
+- task-2-portfolio/
+- task-3-platforms/
+- task-4-email-etiquette/
+- task-5-cybercrime/
+- report/
+
 ## Google Form (Task 3 - Digital Literacy Awareness Quiz)
 https://docs.google.com/forms/d/e/1FAIpQLSeACp-sxbm7irP3gkONMEu7CPRYxdYV9OGPRjHYGei6C6IGcQ/viewform?usp=header
 
