@@ -1,0 +1,21 @@
+Case Study: Phishing – The Most Common Cyber Threat for Students
+
+Phishing is a cybercrime where attackers impersonate trusted organizations (banks, colleges, government) to steal personal and financial information.
+
+How it typically happens (Step-by-step):
+1.⁠ ⁠Victim receives an email/SMS/WhatsApp saying “Your VIT account will be suspended – click here to verify”.
+2.⁠ ⁠The link looks almost real (e.g., vitbhopal.ac.in instead of vitbhopal.ac.in).
+3.⁠ ⁠Victim enters username, password, OTP or UPI details.
+4.⁠ ⁠Attacker immediately gets all credentials.
+
+Who is usually targeted?
+College students (easy targets because of UPI payments, exam-related urgency, and less awareness).
+
+Consequences:
+•⁠  ⁠Money loss through UPI fraud  
+•⁠  ⁠Identity theft  
+•⁠  ⁠Academic account hacking  
+•⁠  ⁠Mental stress and loss of trust
+
+Realistic example:*A VIT student recently lost ₹18,000 when he clicked a fake “VIT Library fine payment” link.
+
