@@ -25,6 +25,6 @@ CSE0001 digital literacy project vit bhopal
 •⁠  ⁠⁠ report/ ⁠ → Full Project_Report.docx/pdf
 
 ## Google Form (Task 3 - Digital Literacy Awareness Quiz)
-
+https://docs.google.com/forms/d/e/1FAIpQLSeACp-sxbm7irP3gkONMEu7CPRYxdYV9OGPRjHYGei6C6IGcQ/viewform?usp=header
 
 All work follows the official CSE0001 project brief. Repository is Public as required.
